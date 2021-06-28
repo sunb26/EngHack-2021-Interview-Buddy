@@ -1,0 +1,7 @@
+opencv_python
+cmake
+ffmpeg-python
+scikit-learn
+numpy
+SpeechRecognition
+my-voice-analysis
